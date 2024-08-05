@@ -1,5 +1,5 @@
 ## Hi!
-## I am a begginer programmer, currently studying CSE at TU/e :D
+I am a begginer programmer, currently studying CSE at TU/e :D
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,cs,cpp)](https://skillicons.dev)
 
 <!--
