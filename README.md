@@ -1,6 +1,4 @@
 ##
-
-- 🔭 I’m currently working on C++ custom lightweight game engine
 ## [![My Skills](https://skillicons.dev/icons?i=cpp,java)](https://skillicons.dev)
 
 <!--
